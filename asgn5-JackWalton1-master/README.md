@@ -1,7 +1,3 @@
 ### CSC 225, Assignment 5
 
-Required files:
-  * `trap26.asm`
-
-Optional files:
-  * _none_
+Requires LC3 Simulator to run assembly
